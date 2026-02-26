@@ -18,12 +18,12 @@ This project is the Capstone for the Google Data Analytics Professional Certific
 ## 📊 Analysis & Visualizations
 
 ### 1. Total Volume: Which days are busiest?
-![Total Rides](your_total_rides_image.png)
+![Total Rides](total_rides.png)
 
 **Insight:** Casual riders peak heavily on the weekends, while annual members consistently use the bikes during the workweek (indicating commuter behavior).
 
 ### 2. Ride Duration: Who rides longer?
-![Average Length](your_average_length_image.png)
+![Average Length](average_ride_length.png)
 
 **Insight:** Casual riders take significantly longer rides on average than annual members, regardless of the day of the week.
 
